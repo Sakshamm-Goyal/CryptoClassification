@@ -52,6 +52,10 @@ Enter the cryptocurrency address (or type 'exit' to quit): 1A1zP1eP5QGefi2DMPTfT
 The address belongs to the Bitcoin blockchain.
 ```
 
+
+https://github.com/Sakshamm-Goyal/CryptoClassification/assets/144555727/81787b89-4f1b-4559-a509-288e4e0813b6
+
+
 ## Script Details
 
 ### `extract_features(address)`
